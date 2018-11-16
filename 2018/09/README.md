@@ -144,7 +144,7 @@ Learning Vim (and how to exit Vim) is outside the scope of this tutorial.  But w
 * Hit the *i* key (for *insert mode*)
 * Type "Hello World"
 * Hit the *Escape* key
-* Type `:q`
+* Type `:wq`
 * Hit the *Enter* key
 
 You have saved a commit with the message "Hello World" using Vim.  You have my condolences.
